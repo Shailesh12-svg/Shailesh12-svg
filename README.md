@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node js,MongoDb**
 
-- 💬 Ask me about **reacr,vue**
+- 💬 Ask me about **react,vue**
 
 - 📫 How to reach me **mallicksailesh957@gmail.com**
 
