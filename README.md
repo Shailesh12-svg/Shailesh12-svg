@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailesh12-svg&label=Profile%20views&color=0e75b6&style=flat" alt="shailesh12-svg" /> </p>
 
-- 🌱 I’m currently learning **Node js,MongoDb**
+- 🌱 I’m currently learning **Node js,MongoDb,Motoko**
 
 - 💬 Ask me about **React**
 
