@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailesh12-svg&label=Profile%20views&color=0e75b6&style=flat" alt="shailesh12-svg" /> </p>
 
-- 🌱 I’m currently learning **Node js,Express,MongoDb**
+- 🌱 I’m currently learning **Socket.IO**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React,Node js,Express,MongoDb**
 
 - 📫 How to reach me **mallicksailesh957@gmail.com**
 
